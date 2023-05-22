@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus Gabriel, esse é meu perfil. 😄
 Sou um estudante apaixonado por tecnologia e um desenvolvedor em evolução, buscando aprender cada vez mais.
 
-<div style="display: flex">
+<div style="display: inline_block">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusomoura/)
 
