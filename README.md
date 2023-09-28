@@ -13,20 +13,9 @@
 </div>
 
 <div align="center"><br/>
-  <img align="center" alt="HTML" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="JavaScript" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="MySql" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="React" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>  
-  <img align="center" alt="Spring" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
-  <img align="center" alt="Java" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  <img align="center" alt="AzureSQL" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"/>
-  <img align="center" alt="Git" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="ShellScript" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/>
-  <img align="center" alt="Linux" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-  <img align="center" alt="Docker" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
-  <img align="center" alt="Flutter" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
-  <img align="center" alt="Dart" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"/>
+ 
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,mysql,react,spring,java,azure,git,linux,docker,flutter,dart)](https://skillicons.dev)
+
   
 </div><br><br>
 
@@ -34,11 +23,8 @@
 <div align="center"><br/>
   <b style = 'font-size:20px; color:white'>Tecnologias que quero aprender</b>
 
-<br>
-  <img align="center" alt="Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt=".NET" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/>
-  <img align="center" alt="C++" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-  <img align="center" alt="MongoDB" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
-  <img align="center" alt="C#" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="Swift" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"/>  
+<br>  
+
+  [![My Skills](https://skillicons.dev/icons?i=python,net,cs,cpp,swift,mongo,)](https://skillicons.dev)
+
 </div><br> 
