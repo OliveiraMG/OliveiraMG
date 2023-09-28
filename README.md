@@ -25,5 +25,4 @@
 <br><br>  
 
   [![My Skills](https://skillicons.dev/icons?i=python,net,cs,cpp,swift,mongo,)](https://skillicons.dev)
-
-</div><br> 
+</div>
