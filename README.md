@@ -22,7 +22,7 @@
 <div align="center"><br/>
   <b style = 'font-size:20px; color:white'>Tecnologias que quero aprender</b>
 
-<br>  
+<br><br>  
 
   [![My Skills](https://skillicons.dev/icons?i=python,net,cs,cpp,swift,mongo,)](https://skillicons.dev)
 
