@@ -16,7 +16,7 @@
  
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,mysql,react,spring,java,azure,git,linux,docker,flutter,dart)](https://skillicons.dev)
 
-</div><br><br>
+</div><br>
 
 <hr>
 <div align="center"><br/>
