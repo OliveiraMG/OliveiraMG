@@ -22,7 +22,5 @@
 <div align="center"><br/>
   <h2 style='color:white'>Tecnologias que quero aprender</h2>
 
-<br><br>
-
   [![My Skills](https://skillicons.dev/icons?i=python,net,cs,cpp,swift,mongo)](https://skillicons.dev)
 </div>
