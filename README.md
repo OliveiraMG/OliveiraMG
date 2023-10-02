@@ -20,9 +20,9 @@
 
 <hr>
 <div align="center"><br/>
-  <h1 style='color:white'>Tecnologias que quero aprender</h1>
+  <h2 style='color:white'>Tecnologias que quero aprender</h2>
 
-<br><br>  
+<br><br>
 
   [![My Skills](https://skillicons.dev/icons?i=python,net,cs,cpp,swift,mongo)](https://skillicons.dev)
 </div>
