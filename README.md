@@ -1,4 +1,4 @@
-<b style = 'font-size:60px; color:white'>Olá! Me chamo Matheus Gabriel 😄</b>
+<h1 style='color:white'>Olá! Me chamo Matheus Gabriel 😄</h1>
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 <hr>
 <div align="center"><br/>
-  <b style = 'font-size:50px; color:white'>Tecnologias que quero aprender</b>
+  <h1 style='color:white'>Tecnologias que quero aprender</h1>
 
 <br><br>  
 
