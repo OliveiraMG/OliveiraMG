@@ -16,7 +16,7 @@
 
 <h2 style='color:white'>Tecnologias que tenho experiência</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=mysql,spring,java,cs,azure,aws,docker,nginx,git,kotlin,flutter,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,spring,java,cs,azure,aws,docker,nginx,kotlin,flutter,dart)](https://skillicons.dev)
 
 </div><br>
 
