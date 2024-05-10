@@ -9,7 +9,7 @@
 
 <div align="center">
 <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api?username=OliveiraMG&show_icons=true&theme=tokyonight" float="left" width="50%"/>
-<img height="150em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraMG&layout=donut&theme=tokyonight&size_weight=0.1&count_weight=0.1&hide=C++,html,css,cmake&show=dart" float="right"/>
+<img height="150em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraMG&layout=donut&theme=tokyonight&size_weight=0.1&count_weight=0.1&hide=c%2B%2B,html,css,cmake&show=dart" float="right"/>
 </div>
 
 <div align="center"><br/>
