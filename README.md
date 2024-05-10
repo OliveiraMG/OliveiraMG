@@ -14,7 +14,7 @@
 
 <div align="center"><br/>
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,mysql,spring,java,azure,git,kotlin,flutter,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,mysql,spring,java,c#,azure,git,kotlin,flutter,dart)](https://skillicons.dev)
 
 </div><br>
 
@@ -22,5 +22,5 @@
 <div align="center"><br/>
   <h2 style='color:white'>Tecnologias que quero aprender</h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=python,net,cs,cpp,swift,mongo)](https://skillicons.dev)
+  [![Skills](https://skillicons.dev/icons?i=python,mongo)](https://skillicons.dev)
 </div>
